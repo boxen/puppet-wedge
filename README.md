@@ -1,9 +1,9 @@
-# TextMate Puppet Module for Boxen
+# Wedge Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include linkinus
+include wedge
 ```
 
 ## Required Puppet Modules
