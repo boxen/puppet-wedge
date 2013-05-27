@@ -6,6 +6,6 @@
 class wedge {
   package { 'wedge':
     provider => 'compressed_app',
-    source => 'http://wedge.natestedman.com/release/Wedge.app.zip'
+    source   => 'http://wedge.natestedman.com/release/Wedge.app.zip'
   }
 }
